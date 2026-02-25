@@ -11,8 +11,16 @@ const AdsterraNative = () => {
       script.async = true;
       script.setAttribute('data-cfasync', 'false');
 
-      
-      script.src = <script async="async" data-cfasync="false" src="https://pl28671718.effectivegatecpm.com/63eeb8aff1cdc73bb078ccd466b4053a/invoke.js"></script> <div id="container-63eeb8aff1cdc73bb078ccd466b4053a"></div>
+      <script>
+  atOptions = {
+    'key' : 'd97d21d2e76ab0b73d6406ca75874e16',
+    'format' : 'iframe',
+    'height' : 50,
+    'width' : 320,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/d97d21d2e76ab0b73d6406ca75874e16/invoke.js"></script>
 
       bannerRef.current.appendChild(script);
     }
